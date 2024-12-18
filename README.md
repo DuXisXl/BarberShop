@@ -1,0 +1,1 @@
+<h1>Projeto de Barbearia criado em React Native</h1>
